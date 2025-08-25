@@ -25,4 +25,8 @@ Bot Answer (Context Retrieved):
 
 "The Price Control & Commodity Management Department (PC&CMD) oversees price monitoring and commodity management across Punjab, and facilitates public-facing guidance related to essential goods and services."
 
+Here is the live link to my project: https://publicprompt-chatbot-kgoo4bbs5ads5aqrjmqgzw.streamlit.app/
+
+Here is the link to my Loom Demo Video: https://www.loom.com/share/c030bd59004c4d74a7c2744a501b46d1
+
 

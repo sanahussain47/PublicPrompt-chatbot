@@ -17,12 +17,11 @@ The bot runs **fully offline** using a **local JSON knowledge base** (`data.json
 - **Streamlit Interface:** Simple, interactive, and offline-friendly  
 
 ---
+<img width="1109" height="863" alt="rag_chatbot_workflow_vertical (1)" src="https://github.com/user-attachments/assets/8d9bacbd-3499-44c6-994a-c93b1363094b" />
 
-## 🖼️ Workflow
-The architecture is shown below:  
 
-![Workflow](workflow.png)
+User Input: PC&CMD
+Bot Answer (Context Retrieved):
 
----
+"The Price Control & Commodity Management Department (PC&CMD) oversees price monitoring and commodity management across Punjab, and facilitates public-facing guidance related to essential goods and services."
 
-## 📂 Project Structure
